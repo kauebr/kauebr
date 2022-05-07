@@ -10,4 +10,4 @@
 
 '# 🧮Machine Learning;
 
-'# 📈 Statistical analysis of data.
+'# 📈 Statistical analysis.
