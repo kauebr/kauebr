@@ -1,7 +1,13 @@
-'# 💚Love to programin 
+'# 💚Love to programin;
+
 '# 👨‍🎓Complete higher education in business administration, bachelor's degree;
-'# 👨‍🔬Data Science
+
+'# 👨‍🔬Data Science;
+
 '# 🐍Python;
+
 '# 🐼Pandas;
+
 '# 🧮Machine Learning;
+
 '# 📈 Statistical analysis of data.
