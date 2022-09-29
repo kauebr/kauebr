@@ -5,18 +5,18 @@ https://api.whatsapp.com/send?phone=5541991835800&text=Oi"> <img src="https://im
 
 
 
-### #💚Love to programin;
+### 💚Love to programin;
 
-### #👨‍🎓Complete higher education in business administration, bachelor's degree;
+### 👨‍🎓Complete higher education in business administration, bachelor's degree;
 
-### #👨‍🔬Data Science;
+### 👨‍🔬Data Science;
 
-### #🐍Python;
+### 🐍Python;
 
-### #🐼Pandas;
+### 🐼Pandas;
 
-### #🧮Machine Learning;
+### 🧮Machine Learning;
 
-### #📈Statistical analysis.
+### 📈Statistical analysis;
 
-### #🤖Selenium
+### 🤖Selenium.
