@@ -6,7 +6,7 @@
 
 ### 💚Love to programin;
 
-### 👨‍🎓Complete higher education in business administration, bachelor's degree;
+### 👨‍🎓Complete higher education in business administration, bachelor's degree, specialization in statistics at USP in progress;
 
 ### 👨‍🔬Data Science;
 
