@@ -4,18 +4,5 @@
 
 
 
-### 💚Love to programin;
-
-### 👨‍🎓Complete higher education in business administration, bachelor's degree, specialization in statistics at USP in progress;
-
-### 👨‍🔬Data Science;
-
-### 🐍Python;
-
-### 🐼Pandas;
-
-### 🧮Machine Learning;
-
-### 📈Statistical analysis;
-
-### 🤖Selenium. 
+"…when you have eliminated the impossible, whatever remains, however improbable, must be the truth"
+-Sir Arthur Conan Doyle
